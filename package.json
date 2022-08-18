@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap-project",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachmethe/bootstrap-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rachmethe/bootstrap-project/issues"
+  },
+  "homepage": "https://github.com/rachmethe/bootstrap-project#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "sass": "^1.54.4"
+  }
+}
